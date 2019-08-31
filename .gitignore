@@ -1,6 +1,5 @@
 # Miscellaneous
 *.class
-*.lock
 *.log
 *.pyc
 *.swp
@@ -9,6 +8,16 @@
 .buildlog/
 .history
 .svn/
+*.lock
+.vscode
+.gradle
+.idea
+/local.properties
+.DS_Store
+/build
+.metadata
+
+
 
 # IntelliJ related
 *.iml
@@ -25,8 +34,13 @@
 .flutter-plugins
 .packages
 .pub-cache/
+pubspec.lock
 .pub/
-build/
+/build/
+
+# goCli related
+go-cli/.packages
+go-cli/pubspec.lock
 
 # Android related
 **/android/**/gradle-wrapper.jar

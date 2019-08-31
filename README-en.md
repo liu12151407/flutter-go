@@ -9,7 +9,7 @@
 
 Android download URL:
 
-<img src="https://img.alicdn.com/tfs/TB180.kOhYaK1RjSZFnXXa80pXa-442-420.png" width="200px">
+<img src="https://img.alicdn.com/tfs/TB1jGgfQ7voK1RjSZFNXXcxMVXa-438-426.png" width="200px">
 
 Iphone download URL:
 No
@@ -85,4 +85,4 @@ The advantages of Flutter mainly include:
   </tbody>
 </table>
 
-Powered by [Alibaba Auction Front-end Team](https://github.com/alibaba-paimai-frontend)<img src="https://img.alicdn.com/tfs/TB1foEhAMHqK1RjSZJnXXbNLpXa-166-166.png" width= 20 height=20>
+Powered by Alibaba Auction Front-end Team<img src="https://img.alicdn.com/tfs/TB1foEhAMHqK1RjSZJnXXbNLpXa-166-166.png" width= 20 height=20>
